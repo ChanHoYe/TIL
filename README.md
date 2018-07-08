@@ -1,6 +1,6 @@
 # Today I Learned
 
-[![Date](https://img.shields.io/badge/date-2018.7.9-blue.svg)]()  [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Date](https://img.shields.io/badge/date-2018.7.9-blue.svg)](./CHANGELOG)  [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 * 하루동안 학습한 내용이나 개발간 특이사항을 기록으로 남긴다.
 * 무엇을 배웠는지 기록하고 변화하는 기술들에 대해 꾸준히 학습하는 것을 목표로 한다.
